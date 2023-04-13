@@ -1,16 +1,34 @@
-### Hi there 👋
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
 
-<!--
-**jiaweichen666/jiaweichen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+ ~> <strong>ls contact</strong>
+ Email:chenjiaweiccnu@gmail.com
+
+ ~> <strong>finger javie</strong>
+ Login: javie                            Name: javie
+ Directory: /home/javie                  Shell: /usr/bin
+ Project:
+   - <a href="https://github.com/jiaweichen666/RaftProtocol">Raft</a>
+ Blog:
+   - <a href="https://jiaweichen666.github.io/archives">Blog</a>
+ Interest in:
+   - Storage system
+   - Database
+   - SQL optimizer
+ Plan:
+   - Learning \o/
+</pre>
